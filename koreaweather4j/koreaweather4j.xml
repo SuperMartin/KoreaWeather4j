@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Korean Weather PROPERTIES</comment>
+	<entry key="IPADDRESS"></entry>
+	<entry key="PORT">1433</entry>
+	<entry key="USER">test</entry>
+	<entry key="PASSWORD"></entry>
+	<entry key="DATABASENAME">????</entry>
+	<entry key="TABLENAME">[????].[dbo].[LOG_WEATHER2]</entry>
+</properties>

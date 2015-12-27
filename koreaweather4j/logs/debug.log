@@ -1,0 +1,254 @@
+[2014-11-14 10:37]  INFO [KoreaWeather4j(main:33)] :starting application
+
+[2014-11-14 10:37]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager
+
+[2014-11-14 10:37]  INFO [KoreaWeather4j(main:36)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 10:37]  INFO [TestCase4WindMap(makeWindMapGSonFile:31)] :Saving to : D:\1.공부하자\BellaTellus\WindMapTest\WebContent\data\KoreaAWS.js
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 10:53]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 10:55]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 10:55]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 10:55]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 10:56]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 10:56]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 10:56]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 10:57]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 10:57]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 10:57]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 11:01]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 11:01]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 11:01]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 11:02]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 11:02]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 11:02]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :955, 인천광역시 옹진군 자월면 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :956, 충청남도 태안군 근흥면 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :957, 전라북도 군산시 옥도면 연도리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :958, 전라북도 부안군 위도면 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :959, 전라남도 진도군 조도면 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :960, 제주특별자치도 서귀포시 남원읍 위미리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :961, 전라남도 여수시 남면 연도리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:02]  INFO [HttpProtocolManager(getKoreaWeatherDataList:168)] :962, 부산광역시 수영구 광안동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 11:04]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 11:04]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 11:04]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 11:13]  INFO [KoreaWeather4j(main:31)] :starting application
+
+[2014-11-14 11:13]  INFO [KoreaWeather4j(main:32)] :Initializing GeoLocationManager
+
+[2014-11-14 11:13]  INFO [KoreaWeather4j(main:34)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 16:56]  INFO [ScopeScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 16:56]  INFO [ScopeScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 16:56]  INFO [ScopeScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 16:57]  INFO [HttpProtocolManager(getKoreaWeatherDataList:169)] :144, 전라북도 군산시 성산면 성덕리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 16:57]  INFO [HttpProtocolManager(getKoreaWeatherDataList:169)] :256, 전라남도 순천시 주암면 구산리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 16:57]  INFO [HttpProtocolManager(getKoreaWeatherDataList:169)] :533, 경기도 양평군 양서면 양수리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 16:57]  INFO [HttpProtocolManager(getKoreaWeatherDataList:169)] :715, 전라남도 진도군 진도읍 동외리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2014-11-14 17:02]  INFO [ScopeScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 17:02]  INFO [ScopeScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 17:02]  INFO [ScopeScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 17:03]  INFO [ScopeScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 17:03]  INFO [ScopeScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 17:03]  INFO [ScopeScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 17:04]  INFO [ScopeScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 17:04]  INFO [ScopeScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 17:04]  INFO [ScopeScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 17:59]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 17:59]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 17:59]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:00]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:00]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:00]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:02]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:06]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:06]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:06]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:11]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:11]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:11]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:14]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:15]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:15]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:15]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2014-11-14 18:17]  INFO [DailyScrapWeatherData(main:21)] :starting application
+
+[2014-11-14 18:17]  INFO [DailyScrapWeatherData(main:22)] :Initializing GeoLocationManager
+
+[2014-11-14 18:17]  INFO [DailyScrapWeatherData(main:24)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 13:28]  INFO [KoreaWeather4j(main:32)] :starting application
+
+[2015-12-27 13:28]  INFO [KoreaWeather4j(main:33)] :Initializing GeoLocationManager
+
+[2015-12-27 13:28]  INFO [KoreaWeather4j(main:35)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 13:28]  INFO [TestCase4WindMap(makeWindMapGSonFile:31)] :Saving to : /Users/martin/Documents/00. Work/eclipse/BellaTellus/WebContent/data/KoreaAWS.js
+
+[2015-12-27 13:29]  INFO [KoreaWeather4j(main:32)] :starting application
+
+[2015-12-27 13:29]  INFO [KoreaWeather4j(main:33)] :Initializing GeoLocationManager
+
+[2015-12-27 13:29]  INFO [KoreaWeather4j(main:35)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 13:29]  INFO [TestCase4WindMap(makeWindMapGSonFile:31)] :Saving to : /Users/martin/Documents/00. Work/eclipse/workspace/BellaTellus/WebContent/data/KoreaAWS.js
+
+[2015-12-27 13:29]  INFO [KoreaWeather4j(main:75)] :shutdown application
+
+[2015-12-27 13:30]  INFO [KoreaWeather4j(main:32)] :starting application
+
+[2015-12-27 13:30]  INFO [KoreaWeather4j(main:33)] :Initializing GeoLocationManager
+
+[2015-12-27 13:30]  INFO [KoreaWeather4j(main:35)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :177, 충청남도 홍성군 홍북면 신경리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :233, 충청남도 천안시 병천면 병천리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :308, 전라남도 신안군 하의면 옥도리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :688, 전라남도 담양군 봉산면 삼지리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :860, 대구광역시 동구 신암동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :861, 제주특별자치도 제주시 구좌읍 월정리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :862, 제주특별자치도 제주시 구좌읍 김녕리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :863, 제주특별자치도 제주시 외도일동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :864, 전라북도 전주시완산구 남노송동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :865, 제주특별자치도 제주시 오등동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :866, 제주특별자치도 제주시 용강동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :867, 제주특별자치도 제주시 오라이동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :868, 제주특별자치도 제주시 애월읍 광령리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :869, 제주특별자치도 서귀포시 하원동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :880, 제주특별자치도 제주시 한림읍 금악리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :883, 제주특별자치도 서귀포시 안덕면 동광리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :890, 제주특별자치도 서귀포시 남원읍 신례리 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :891, 제주특별자치도 서귀포시 색달동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :904, 부산광역시 사상구 감전동 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [HttpProtocolManager(getKoreaAWSWeatherDataList:169)] :963, 울산광역시 동구 주소가 없습니다. 주소와 위도경도 값을 새롭게 추가합니다. 
+
+[2015-12-27 13:30]  INFO [TestCase4WindMap(makeWindMapGSonFile:31)] :Saving to : /Users/martin/Documents/00. Work/eclipse/workspace/BellaTellus/WebContent/data/KoreaAWS.js
+
+[2015-12-27 13:30]  INFO [KoreaWeather4j(main:75)] :shutdown application
+
+[2015-12-27 18:55]  INFO [KoreaWeather4j(main:32)] :starting application
+
+[2015-12-27 18:55]  INFO [KoreaWeather4j(main:33)] :Initializing GeoLocationManager
+
+[2015-12-27 18:55]  INFO [KoreaWeather4j(main:35)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 18:56]  INFO [KoreaWeather4j(main:32)] :starting application
+
+[2015-12-27 18:56]  INFO [KoreaWeather4j(main:33)] :Initializing GeoLocationManager
+
+[2015-12-27 18:56]  INFO [KoreaWeather4j(main:35)] :Initializing GeoLocationManager...OK
+
+[2015-12-27 18:56]  INFO [TestCase4WindMap(makeWindMapGSonFile:31)] :Saving to : /Users/martin/Documents/00. Work/eclipse/workspace/BellaTellus/WebContent/data/KoreaAWS.js
+
+[2015-12-27 18:56]  INFO [KoreaWeather4j(main:75)] :shutdown application
+

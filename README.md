@@ -11,12 +11,15 @@ koreaweather4j-0.2.0 - 2015.05.30
 
 # Authors
 - Chihwan Choi ( charisma0629@gmail.com )
+
 Doctor of Engineering / Dept. of Bio-Information Technology, Chungbuk National University, Cheongju, Republic of Korea.
 
 
 - Min-Kyu Park ( ruserive@gmail.com )
+
 Master of Engineering / Dept. of Business Data Convergence, Chungbuk National University, Cheongju, Republic of Korea.
 
 
 - Jinhyuk Kim ( hyuk0628@gmail.com )
+
 The master's course in Engineering / Dept. of Big Data, Chungbuk National University, Cheongju, Republic of Korea.
